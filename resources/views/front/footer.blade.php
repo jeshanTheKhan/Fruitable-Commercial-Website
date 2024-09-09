@@ -62,7 +62,7 @@
                             <p>Address: Noya Bazar,Sylhet</p>
                             <p>1st Email: khan.jeshan@gmail.com</p>
                             <p>2nd Email: tamannasanjana57@gmail.com</p>
-                            <p>3rd Email: tamannasanjana57@gmail.com</p>
+                            <p>3rd Email: tabassumuntahaa@gmail.com</p>
                             <p>Phone: +0123 4567 8910</p>
                             <img src="img/payment.png" class="img-fluid" alt="">
                         </div>
